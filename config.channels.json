@@ -1,0 +1,72 @@
+[
+  {
+    "name": "MindSpark Daily",
+    "description": "Daily sparks of wisdom, motivation, and facts to brighten your day.",
+    "about": "We bring you powerful quotes, fascinating facts, and uplifting content every single day.",
+    "keywords": ["motivation", "wisdom", "daily quotes", "interesting facts", "positivity"],
+    "category": "Education"
+  },
+  {
+    "name": "FactFuel",
+    "description": "Your daily dose of mind-blowing facts and inspiring stories.",
+    "about": "Discover the world’s most amazing truths and life-changing wisdom in short, engaging videos.",
+    "keywords": ["facts", "education", "motivation", "learning", "knowledge"],
+    "category": "Education"
+  },
+  {
+    "name": "Rise & Inspire",
+    "description": "Start your day with motivation, inspiration, and surprising truths.",
+    "about": "Helping you rise higher every day with stories, facts, and positive energy.",
+    "keywords": ["inspiration", "motivation", "life tips", "daily habits", "self growth"],
+    "category": "Education"
+  },
+  {
+    "name": "Truth Sparks",
+    "description": "Quick bursts of truth, motivation, and fun facts.",
+    "about": "Short-form content to motivate, educate, and entertain your mind.",
+    "keywords": ["truth", "facts", "motivation", "short videos", "wisdom"],
+    "category": "Education"
+  },
+  {
+    "name": "Brain Boosters",
+    "description": "Boost your brainpower with motivational facts and insightful ideas.",
+    "about": "Bringing you knowledge and motivation in a way you’ll never forget.",
+    "keywords": ["brain facts", "motivation", "learning", "growth mindset", "education"],
+    "category": "Education"
+  },
+  {
+    "name": "Epic Mind Facts",
+    "description": "Facts so epic, they change the way you see the world.",
+    "about": "Daily facts, motivation, and truths that inspire action.",
+    "keywords": ["epic facts", "motivation", "self improvement", "education"],
+    "category": "Education"
+  },
+  {
+    "name": "Next Level Mindset",
+    "description": "Level up your mindset with motivational truths and fascinating facts.",
+    "about": "Helping you think bigger, live better, and stay motivated.",
+    "keywords": ["mindset", "motivation", "growth", "learning", "success"],
+    "category": "Education"
+  },
+  {
+    "name": "Quick Inspire",
+    "description": "Fast, powerful doses of inspiration and knowledge.",
+    "about": "Short videos that inspire action and spark curiosity.",
+    "keywords": ["short videos", "inspiration", "motivation", "facts", "positivity"],
+    "category": "Education"
+  },
+  {
+    "name": "Daily Dose of Truth",
+    "description": "One truth a day to keep you inspired and informed.",
+    "about": "Honest, motivational, and educational content every day.",
+    "keywords": ["daily truth", "motivation", "facts", "self growth"],
+    "category": "Education"
+  },
+  {
+    "name": "Motivation & Facts Hub",
+    "description": "Your hub for motivation, inspiration, and amazing facts.",
+    "about": "The perfect mix of knowledge and motivation to power your day.",
+    "keywords": ["motivation", "facts", "knowledge", "education", "inspiration"],
+    "category": "Education"
+  }
+]
